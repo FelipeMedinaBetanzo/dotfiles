@@ -1,0 +1,13 @@
+[projects."/home/fmedina"]
+trust_level = "trusted"
+
+[projects."/home/fmedina/Descargas"]
+trust_level = "trusted"
+
+[projects."/home/fmedina/work-space/bitspa"]
+trust_level = "trusted"
+
+[tui]
+status_line = ["model-with-reasoning", "current-dir", "permissions", "five-hour-limit", "weekly-limit"]
+status_line_use_colors = true
+

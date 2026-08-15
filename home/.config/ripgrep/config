@@ -1,0 +1,5 @@
+--smart-case
+--hidden
+--glob=!.git/*
+--colors=line:style:bold
+

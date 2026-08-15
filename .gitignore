@@ -1,0 +1,19 @@
+# Nunca versionar secretos ni estado efímero
+**/auth.json
+**/*token*
+**/secrets.*
+**/.secrets/**
+**/*.pem
+**/*.key
+**/id_rsa*
+**/id_ed25519*
+**/*.sqlite*
+**/history.jsonl
+**/known_hosts*
+**/.env
+**/.env.*
+
+# Basura local
+.DS_Store
+*.swp
+*.tmp
